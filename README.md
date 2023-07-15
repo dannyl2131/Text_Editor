@@ -17,5 +17,3 @@
   <br /> 
     ## License
     https://opensource.org/license/mit/      
- 
-   <br /> [link to video submission](https://drive.google.com/file/d/1NYrQI5Ls2RejZX2hMJ3nmrdEKtKaPE86/view)
